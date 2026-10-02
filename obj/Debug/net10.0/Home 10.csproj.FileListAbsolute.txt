@@ -1,0 +1,14 @@
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\bin\Debug\net10.0\Home 10.exe
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\bin\Debug\net10.0\Home 10.deps.json
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\bin\Debug\net10.0\Home 10.runtimeconfig.json
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\bin\Debug\net10.0\Home 10.dll
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\bin\Debug\net10.0\Home 10.pdb
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.AssemblyInfoInputs.cache
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.AssemblyInfo.cs
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.csproj.CoreCompileInputs.cache
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.dll
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\refint\Home 10.dll
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.pdb
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\Home 10.genruntimeconfig.cache
+C:\Users\Muso\Desktop\2C#\Hometask\Home 10\obj\Debug\net10.0\ref\Home 10.dll
